@@ -1,84 +1,144 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-
-  "users": [
+  "dogs": [
     {
       "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "gender": "Female",
+      "name": "Johanna Heighway",
+      "age": 15,
+      "place": "Bengaluru"
     },
     {
       "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "gender": "Male",
+      "name": "Ethan Oates",
+      "age": 10,
+      "place": "Hyderabad"
     },
     {
       "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "gender": "Female",
+      "name": "Deeyn Tures",
+      "age": 16,
+      "place": "Bengaluru"
     },
     {
       "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "gender": "Female",
+      "name": "Dulsea Risso",
+      "age": 8,
+      "place": "Bang Lamung"
     },
     {
       "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "gender": "Female",
+      "name": "Peg Malicki",
+      "age": 8,
+      "place": "Chełmiec"
     },
     {
       "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "gender": "Polygender",
+      "name": "Reinold Sorel",
+      "age": 16,
+      "place": "Chennai"
     },
     {
       "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "gender": "Male",
+      "name": "Creighton Kubes",
+      "age": 13,
+      "place": "Luleå"
     },
     {
       "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "gender": "Male",
+      "name": "Lemmie Witsey",
+      "age": 4,
+      "place": "Cibinong Satu"
     },
     {
       "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
+      "gender": "Female",
+      "name": "Becki Raubenheimers",
+      "age": 15,
+      "place": "Virbalis"
     },
     {
       "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "gender": "Non-binary",
+      "name": "Sioux Roarty",
+      "age": 8,
+      "place": "Hyderabad"
     },
     {
       "id": 11,
-      "first_name": "Govind",
-      "last_name": "Pullagura",
-      "email": "govindpullagura@gmail.com",
-      "gender": "Male"
+      "gender": "Female",
+      "name": "Aurelea Broseman",
+      "age": 2,
+      "place": "Chennai"
+    },
+    {
+      "id": 12,
+      "gender": "Female",
+      "name": "Shane Hammerson",
+      "age": 15,
+      "place": "Cimuncang"
+    },
+    {
+      "id": 13,
+      "gender": "Female",
+      "name": "Roda Sharper",
+      "age": 7,
+      "place": "Mansilingan"
+    },
+    {
+      "id": 14,
+      "gender": "Male",
+      "name": "Gery Emmanueli",
+      "age": 4,
+      "place": "Bengaluru"
+    },
+    {
+      "id": 15,
+      "gender": "Female",
+      "name": "Tiffi Vasyunin",
+      "age": 14,
+      "place": "Hyderabad"
+    },
+    {
+      "id": 16,
+      "gender": "Male",
+      "name": "Seymour Forri",
+      "age": 16,
+      "place": "Vesoul"
+    },
+    {
+      "id": 17,
+      "gender": "Male",
+      "name": "Brennen Gwinnett",
+      "age": 4,
+      "place": "Coromandel"
+    },
+    {
+      "id": 18,
+      "gender": "Female",
+      "name": "Dede Beardsdale",
+      "age": 5,
+      "place": "Chennai"
+    },
+    {
+      "id": 19,
+      "gender": "Female",
+      "name": "Lani Itzakovitz",
+      "age": 10,
+      "place": "Hyderabad"
+    },
+    {
+      "id": 20,
+      "gender": "Male",
+      "name": "Niel Finnick",
+      "age": 8,
+      "place": "Chennai"
     }
   ]
 }
