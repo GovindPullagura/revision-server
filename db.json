@@ -161,5 +161,25 @@
       "Price": 800000
     }
   ],
-  "wishlisted_cars": []
+  "wishlisted_cars": [],
+  "products": [
+    {
+      "id": 1,
+      "gender": "Female",
+      "title": "AM KURTI",
+      "description": "Women Printed Viscose Rayon Ethnic Dress  ",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/i/d/n/3xl-nsg-358-saabhi-original-imaghrb4t4wudgfp.jpeg?q=70",
+      "price": "666",
+      "category": "Kurti"
+    },
+    {
+      "gender": "Male",
+      "title": "UCB",
+      "description": "Shaded Jeans",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/6/4/p/28-22a4l23r3070i901-united-colors-of-benetton-original-imaghhubgsznnnhp.jpeg?q=70",
+      "price": "2389",
+      "category": "Jeans",
+      "id": 2
+    }
+  ]
 }
