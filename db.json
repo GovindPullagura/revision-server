@@ -181,5 +181,13 @@
       "category": "Jeans",
       "id": 2
     }
+  ],
+  "quiz": [
+    { "id": 1, "user": "Govind", "score": 44 },
+    { "id": 2, "user": "Rahul", "score": 24 },
+    { "id": 3, "user": "Ravi", "score": 15 },
+    { "id": 4, "user": "Chunnu", "score": 78 },
+    { "id": 5, "user": "Munni", "score": 43 },
+    { "id": 6, "user": "Pablo", "score": 155 }
   ]
 }
