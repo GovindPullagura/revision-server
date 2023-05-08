@@ -193,141 +193,141 @@
   "grocery": [
     {
       "id": 1,
-      "product_name": "Turkey Leg With Drum And Thigh",
-      "brand_name": "Kellogg's",
+      "name": "Turkey Leg With Drum And Thigh",
+      "description": "Kellogg's",
       "price": 5.09,
       "quantity": 99
     },
     {
       "id": 2,
-      "product_name": "Tomatoes",
-      "brand_name": "General Mills",
+      "name": "Tomatoes",
+      "description": "General Mills",
       "price": 19.45,
       "quantity": 65
     },
     {
       "id": 3,
-      "product_name": "Oranges - Navel, 72",
-      "brand_name": "General Mills",
+      "name": "Oranges - Navel, 72",
+      "description": "General Mills",
       "price": 7.43,
       "quantity": 18
     },
     {
       "id": 4,
-      "product_name": "Jagermeister",
-      "brand_name": "Nestle",
+      "name": "Jagermeister",
+      "description": "Nestle",
       "price": 20.64,
       "quantity": 44
     },
     {
       "id": 5,
-      "product_name": "Olives - Morracan Dired",
-      "brand_name": "Kellogg's",
+      "name": "Olives - Morracan Dired",
+      "description": "Kellogg's",
       "price": 6.53,
       "quantity": 31
     },
     {
       "id": 6,
-      "product_name": "Wine - Guy Sage Touraine",
-      "brand_name": "Kellogg's",
+      "name": "Wine - Guy Sage Touraine",
+      "description": "Kellogg's",
       "price": 17.28,
       "quantity": 12
     },
     {
       "id": 7,
-      "product_name": "Mushroom - Morel Frozen",
-      "brand_name": "Nestle",
+      "name": "Mushroom - Morel Frozen",
+      "description": "Nestle",
       "price": 8.1,
       "quantity": 31
     },
     {
       "id": 8,
-      "product_name": "Garbage Bags - Clear",
-      "brand_name": "Nestle",
+      "name": "Garbage Bags - Clear",
+      "description": "Nestle",
       "price": 10.26,
       "quantity": 48
     },
     {
       "id": 9,
-      "product_name": "Cookie - Dough Variety",
-      "brand_name": "Nestle",
+      "name": "Cookie - Dough Variety",
+      "description": "Nestle",
       "price": 17.57,
       "quantity": 30
     },
     {
       "id": 10,
-      "product_name": "Wine - Chablis J Moreau Et Fils",
-      "brand_name": "Nestle",
+      "name": "Wine - Chablis J Moreau Et Fils",
+      "description": "Nestle",
       "price": 18.28,
       "quantity": 88
     },
     {
       "id": 11,
-      "product_name": "Sesame Seed",
-      "brand_name": "Nestle",
+      "name": "Sesame Seed",
+      "description": "Nestle",
       "price": 6.5,
       "quantity": 73
     },
     {
       "id": 12,
-      "product_name": "Sprite, Diet - 355ml",
-      "brand_name": "Kellogg's",
+      "name": "Sprite, Diet - 355ml",
+      "description": "Kellogg's",
       "price": 9.24,
       "quantity": 3
     },
     {
       "id": 13,
-      "product_name": "Cauliflower",
-      "brand_name": "Nestle",
+      "name": "Cauliflower",
+      "description": "Nestle",
       "price": 3.18,
       "quantity": 17
     },
     {
       "id": 14,
-      "product_name": "Longos - Chicken Cordon Bleu",
-      "brand_name": "Kellogg's",
+      "name": "Longos - Chicken Cordon Bleu",
+      "description": "Kellogg's",
       "price": 1.96,
       "quantity": 19
     },
     {
       "id": 15,
-      "product_name": "Coffee - Egg Nog Capuccino",
-      "brand_name": "Nestle",
+      "name": "Coffee - Egg Nog Capuccino",
+      "description": "Nestle",
       "price": 7.86,
       "quantity": 5
     },
     {
       "id": 16,
-      "product_name": "Dawn Professionl Pot And Pan",
-      "brand_name": "Nestle",
+      "name": "Dawn Professionl Pot And Pan",
+      "description": "Nestle",
       "price": 7.52,
       "quantity": 54
     },
     {
       "id": 17,
-      "product_name": "Lady Fingers",
-      "brand_name": "General Mills",
+      "name": "Lady Fingers",
+      "description": "General Mills",
       "price": 1.17,
       "quantity": 78
     },
     {
       "id": 18,
-      "product_name": "Table Cloth 81x81 White",
-      "brand_name": "Nestle",
+      "name": "Table Cloth 81x81 White",
+      "description": "Nestle",
       "price": 9.4,
       "quantity": 30
     },
     {
       "id": 19,
-      "product_name": "Beer - Maudite",
-      "brand_name": "Kellogg's",
+      "name": "Beer - Maudite",
+      "description": "Kellogg's",
       "price": 5.09,
       "quantity": 74
     },
     {
       "id": 20,
-      "product_name": "Wine - Chardonnay South",
-      "brand_name": "Nestle",
+      "name": "Wine - Chardonnay South",
+      "description": "Nestle",
       "price": 16.76,
       "quantity": 61
     }
