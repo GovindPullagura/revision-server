@@ -331,5 +331,247 @@
       "price": 16.76,
       "quantity": 61
     }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Erda",
+      "last_name": "Draycott",
+      "department": "Services",
+      "salary": 31467.1,
+      "email": "edraycott0@goo.gl"
+    },
+    {
+      "id": 2,
+      "first_name": "Cherilyn",
+      "last_name": "Rowena",
+      "department": "Business Development",
+      "salary": 69392.35,
+      "email": "crowena1@surveymonkey.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Oralla",
+      "last_name": "Squeers",
+      "department": "Marketing",
+      "salary": 135740.55,
+      "email": "osqueers2@zimbio.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Amber",
+      "last_name": "McClinton",
+      "department": "Services",
+      "salary": 82766.81,
+      "email": "amcclinton3@bloomberg.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Frayda",
+      "last_name": "Mosedale",
+      "department": "Legal",
+      "salary": 111665.11,
+      "email": "fmosedale4@aboutads.info"
+    },
+    {
+      "id": 6,
+      "first_name": "Poul",
+      "last_name": "Balhatchet",
+      "department": "Product Management",
+      "salary": 101863.84,
+      "email": "pbalhatchet5@weebly.com"
+    },
+    {
+      "id": 7,
+      "first_name": "Lidia",
+      "last_name": "O'Cullinane",
+      "department": "Training",
+      "salary": 158563.34,
+      "email": "locullinane6@unblog.fr"
+    },
+    {
+      "id": 8,
+      "first_name": "Puff",
+      "last_name": "Paraman",
+      "department": "Research and Development",
+      "salary": 29132.59,
+      "email": "pparaman7@jimdo.com"
+    },
+    {
+      "id": 9,
+      "first_name": "Aryn",
+      "last_name": "Sandhill",
+      "department": "Marketing",
+      "salary": 46277.76,
+      "email": "asandhill8@telegraph.co.uk"
+    },
+    {
+      "id": 10,
+      "first_name": "Dew",
+      "last_name": "Putson",
+      "department": "Sales",
+      "salary": 131226.54,
+      "email": "dputson9@mapquest.com"
+    },
+    {
+      "id": 11,
+      "first_name": "Libbey",
+      "last_name": "Desport",
+      "department": "Engineering",
+      "salary": 86381.49,
+      "email": "ldesporta@cloudflare.com"
+    },
+    {
+      "id": 12,
+      "first_name": "Randee",
+      "last_name": "Meijer",
+      "department": "Research and Development",
+      "salary": 27027.18,
+      "email": "rmeijerb@hugedomains.com"
+    },
+    {
+      "id": 13,
+      "first_name": "Conway",
+      "last_name": "Shreenan",
+      "department": "Research and Development",
+      "salary": 88672.41,
+      "email": "cshreenanc@tiny.cc"
+    },
+    {
+      "id": 14,
+      "first_name": "Merissa",
+      "last_name": "Woloschinski",
+      "department": "Human Resources",
+      "salary": 105692.42,
+      "email": "mwoloschinskid@comsenz.com"
+    },
+    {
+      "id": 15,
+      "first_name": "Mae",
+      "last_name": "McNaughton",
+      "department": "Product Management",
+      "salary": 70804.77,
+      "email": "mmcnaughtone@auda.org.au"
+    },
+    {
+      "id": 16,
+      "first_name": "Sigrid",
+      "last_name": "Curtain",
+      "department": "Product Management",
+      "salary": 122035.05,
+      "email": "scurtainf@drupal.org"
+    },
+    {
+      "id": 17,
+      "first_name": "Regine",
+      "last_name": "Tolmie",
+      "department": "Training",
+      "salary": 34834.16,
+      "email": "rtolmieg@yahoo.co.jp"
+    },
+    {
+      "id": 18,
+      "first_name": "Barbe",
+      "last_name": "Scrafton",
+      "department": "Business Development",
+      "salary": 129774.89,
+      "email": "bscraftonh@4shared.com"
+    },
+    {
+      "id": 19,
+      "first_name": "Elvis",
+      "last_name": "Harvey",
+      "department": "Business Development",
+      "salary": 128346.47,
+      "email": "eharveyi@imageshack.us"
+    },
+    {
+      "id": 20,
+      "first_name": "Glory",
+      "last_name": "Harriskine",
+      "department": "Marketing",
+      "salary": 175170.27,
+      "email": "gharriskinej@rambler.ru"
+    },
+    {
+      "id": 21,
+      "first_name": "Byrann",
+      "last_name": "Giron",
+      "department": "Human Resources",
+      "salary": 128670.72,
+      "email": "bgironk@imgur.com"
+    },
+    {
+      "id": 22,
+      "first_name": "Lexy",
+      "last_name": "McCarrell",
+      "department": "Engineering",
+      "salary": 78510.62,
+      "email": "lmccarrelll@nifty.com"
+    },
+    {
+      "id": 23,
+      "first_name": "Eda",
+      "last_name": "Stienham",
+      "department": "Engineering",
+      "salary": 57086.78,
+      "email": "estienhamm@boston.com"
+    },
+    {
+      "id": 24,
+      "first_name": "Jorgan",
+      "last_name": "O'Reilly",
+      "department": "Legal",
+      "salary": 173911.06,
+      "email": "joreillyn@forbes.com"
+    },
+    {
+      "id": 25,
+      "first_name": "Scotti",
+      "last_name": "Fanti",
+      "department": "Services",
+      "salary": 27398.19,
+      "email": "sfantio@unc.edu"
+    },
+    {
+      "id": 26,
+      "first_name": "Bern",
+      "last_name": "Wolpert",
+      "department": "Training",
+      "salary": 58642.32,
+      "email": "bwolpertp@china.com.cn"
+    },
+    {
+      "id": 27,
+      "first_name": "Kissiah",
+      "last_name": "Phillipps",
+      "department": "Research and Development",
+      "salary": 67004.24,
+      "email": "kphillippsq@merriam-webster.com"
+    },
+    {
+      "id": 28,
+      "first_name": "Fredrika",
+      "last_name": "Jerromes",
+      "department": "Marketing",
+      "salary": 148961.74,
+      "email": "fjerromesr@github.io"
+    },
+    {
+      "id": 29,
+      "first_name": "Jewell",
+      "last_name": "Evill",
+      "department": "Business Development",
+      "salary": 102499.33,
+      "email": "jevills@japanpost.jp"
+    },
+    {
+      "id": 30,
+      "first_name": "Gill",
+      "last_name": "Di Baudi",
+      "department": "Marketing",
+      "salary": 24356.51,
+      "email": "gdibaudit@vkontakte.ru"
+    }
   ]
 }
