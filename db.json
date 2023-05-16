@@ -600,5 +600,12 @@
       "Stock": 8
     }
   ],
-  "cart": []
+  "cart": [],
+  "users": [
+    {
+      "name": "Govind Pullagura",
+      "email": "govind@gmail.com",
+      "password": "govind"
+    }
+  ]
 }
