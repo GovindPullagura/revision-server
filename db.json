@@ -606,7 +606,21 @@
       "id": 1,
       "name": "Govind Pullagura",
       "email": "govind@gmail.com",
-      "password": "govind"
+      "password": "govind",
+      "income": {
+        "Salary": 50000,
+        "Refunds": 5000,
+        "Gifts": 2000,
+        "Others": 1500
+      },
+      "expense": {
+        "Food & Drinks": 1500,
+        "Shopping": 10000,
+        "Housing": 20000,
+        "Bills": 5000,
+        "Vehicle & Transport": 2000,
+        "Lifestyle": 3000
+      }
     }
   ]
 }
