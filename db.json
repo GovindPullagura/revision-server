@@ -620,7 +620,23 @@
         "Bills": 5000,
         "Vehicle & Transport": 2000,
         "Lifestyle": 3000
-      }
+      },
+      "transactions": [
+        {
+          "id": 1,
+          "type": "income",
+          "category": "Salary",
+          "amount": 60000,
+          "date": "2023-05-02"
+        },
+        {
+          "id": 2,
+          "type": "expense",
+          "category": "Shopping",
+          "amount": 6000,
+          "date": "2023-05-06"
+        }
+      ]
     }
   ]
 }
