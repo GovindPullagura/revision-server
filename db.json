@@ -652,7 +652,7 @@
       "fee": 1000
     }
   ],
-  "freeelancers": [
+  "freelancers": [
     {
       "id": 1,
       "name": "John Doe",
