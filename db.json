@@ -651,5 +651,29 @@
       "slots": 20,
       "fee": 1000
     }
+  ],
+  "freeelancers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 25,
+      "profile_picture": "https://m.media-amazon.com/images/I/71Mn5OX3ucL._AC_UL800_FMwebp_QL65_.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 30,
+      "profile_picture": "https://m.media-amazon.com/images/I/515SW9FepFL._AC_UL800_FMwebp_QL65_.jpg",
+      "isBooked": true
+    }
   ]
 }
