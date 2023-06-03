@@ -615,6 +615,13 @@
       "email": "venkat@gmail.com",
       "password": "venkat",
       "doctor": true
+    },
+    {
+      "id": 3,
+      "username": "pgvh",
+      "email": "pgvh@gmail.com",
+      "password": "pgvHemanth",
+      "avatar": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/2/h/h/xl-stripes-005-tallwalker-original-imagka2z8rszstrs.jpeg?q=70"
     }
   ],
   "appointments": [
@@ -674,6 +681,17 @@
       "hourly_rate": 30,
       "profile_picture": "https://m.media-amazon.com/images/I/515SW9FepFL._AC_UL800_FMwebp_QL65_.jpg",
       "isBooked": true
+    }
+  ],
+  "forum": [
+    {
+      "username": "pgvh",
+      "id": 1,
+      "title": "How JS works?",
+      "language": "JavaScript",
+      "upvotes": 24,
+      "answers": 44,
+      "date": "2023-04-06"
     }
   ]
 }
