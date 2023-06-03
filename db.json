@@ -687,10 +687,9 @@
     {
       "username": "pgvh",
       "id": 1,
-      "title": "How JS works?",
+      "questionTitle": "How JS works?",
+      "questionDescription": "I am struggling to understand how JS works",
       "language": "JavaScript",
-      "upvotes": 24,
-      "answers": 44,
       "date": "2023-04-06"
     }
   ]
