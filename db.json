@@ -622,6 +622,12 @@
       "email": "pgvh@gmail.com",
       "password": "pgvHemanth",
       "avatar": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/2/h/h/xl-stripes-005-tallwalker-original-imagka2z8rszstrs.jpeg?q=70"
+    },
+    {
+      "id": 4,
+      "name": "Govinda",
+      "email": "govinda@gmail.com",
+      "password": "govinda"
     }
   ],
   "appointments": [
