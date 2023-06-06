@@ -627,7 +627,23 @@
       "id": 4,
       "name": "Govinda",
       "email": "govinda@gmail.com",
-      "password": "govinda"
+      "password": "govinda",
+      "transactions": [
+        {
+          "id": 1,
+          "type": "income",
+          "category": "salary",
+          "amount": 60000,
+          "date": "2023-04-06"
+        },
+        {
+          "id": 2,
+          "type": "expense",
+          "category": "food",
+          "amount": 10000,
+          "date": "2023-04-10"
+        }
+      ]
     }
   ],
   "appointments": [
