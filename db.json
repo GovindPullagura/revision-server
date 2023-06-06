@@ -646,6 +646,70 @@
       "category": "food",
       "amount": 10000,
       "date": "2023-04-10"
+    },
+    {
+      "id": 3,
+      "user": "Govinda",
+      "type": "expense",
+      "category": "housing",
+      "amount": 5000,
+      "date": "2023-04-10"
+    },
+    {
+      "id": 4,
+      "user": "Govinda",
+      "type": "expense",
+      "category": "shopping",
+      "amount": 10000,
+      "date": "2023-04-10"
+    },
+    {
+      "id": 5,
+      "user": "Govinda",
+      "type": "expense",
+      "category": "bills",
+      "amount": 4000,
+      "date": "2023-04-10"
+    },
+    {
+      "id": 6,
+      "user": "Govinda",
+      "type": "expense",
+      "category": "transport",
+      "amount": 2000,
+      "date": "2023-04-10"
+    },
+    {
+      "id": 7,
+      "user": "Govinda",
+      "type": "expense",
+      "category": "lifestyle",
+      "amount": 20000,
+      "date": "2023-04-10"
+    },
+    {
+      "id": 8,
+      "user": "Govinda",
+      "type": "income",
+      "category": "gifts",
+      "amount": 10000,
+      "date": "2023-04-10"
+    },
+    {
+      "id": 9,
+      "user": "Govinda",
+      "type": "income",
+      "category": "refunds",
+      "amount": 1000,
+      "date": "2023-04-10"
+    },
+    {
+      "id": 10,
+      "user": "Govinda",
+      "type": "income",
+      "category": "others",
+      "amount": 10000,
+      "date": "2023-04-10"
     }
   ],
   "appointments": [
